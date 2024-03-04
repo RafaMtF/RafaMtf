@@ -33,6 +33,6 @@ My name is Rafael, I am on my third semester graduating on Software Engineering
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,discord)
 
 ### Currently learning
-![My Skills](https://skillicons.dev/icons?i=docker,nodejs)
+![My Skills](https://skillicons.dev/icons?i=docker,nodejs,nextjs)
 
 
