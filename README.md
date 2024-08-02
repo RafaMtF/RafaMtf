@@ -8,8 +8,7 @@
 
 My name is Rafael, I am on my third semester graduating on Software Engineering 
 
-- 🔭 I’m currently working on the frontend of the [WebTech](https://github.com/WebTech-PUC-Minas) team
-- 🌱 I’m currently learning Next.js
+- 🪞 I currently focus on designing and developing the front end of aplications in React/NextJs
 - 📫 How to reach me: **rafaelmoreirabarbosabaptista@gmail.com** or my [LinkedIn](https://www.linkedin.com/in/rafael-baptista-6a2ab42a2/)
 
 ## Activity
