@@ -9,7 +9,7 @@
 My name is Rafael, I am on my third semester graduating on Software Engineering 
 
 - 🪞 I currently focus on designing and developing the front end of aplications in React/NextJs
-- 🌿 Currently learning Swift for IOS and Mac native development
+- 🌿 Currently learning Swift for IOS and MacOS native development
 - 📫 How to reach me: **rafaelmoreirabarbosabaptista@gmail.com** or my [LinkedIn](https://www.linkedin.com/in/rafael-baptista-6a2ab42a2/)
 
 ## Activity
