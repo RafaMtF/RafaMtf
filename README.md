@@ -29,7 +29,7 @@ My name is Rafael, I am on my third semester graduating on Software Engineering 
 
 ## Frameworks & Libraries
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,bootstrap,tailwind,exrpess" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,bootstrap,tailwind,express" />
 </p>
 
 ## Tools
