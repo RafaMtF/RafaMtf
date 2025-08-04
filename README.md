@@ -4,11 +4,11 @@
 
 ###
 
-My name is Rafael, I am on my third semester graduating on Software Engineering @ PUC Minas
+My name is Rafael, I am on my fourth semester graduating on Software Engineering @ PUC Minas
 
 -   🪞 I currently focus on designing and developing the front end of aplications in React/NextJs
 -   🌿 Currently learning Swift for IOS and MacOS native development
--   📫 How to reach me: **rafamtf.mail@gmail.com** or my [LinkedIn](https://www.linkedin.com/in/rafael-baptista-6a2ab42a2/)
+-   📫 How to reach me: **[rafamtf.mail@gmail.com](mailto:rafamtf.mail@gmail.com)** or my **[LinkedIn](https://www.linkedin.com/in/rafael-baptista-6a2ab42a2/)**
 
 ###
 
@@ -29,7 +29,7 @@ My name is Rafael, I am on my third semester graduating on Software Engineering 
 
 ## Frameworks & Libraries
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,bootstrap,tailwind,express" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,bootstrap,tailwind" />
 </p>
 
 ## Tools
@@ -41,3 +41,4 @@ My name is Rafael, I am on my third semester graduating on Software Engineering 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=docker,nodejs,swift" />
 </p>
+
