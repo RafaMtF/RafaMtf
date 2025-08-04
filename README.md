@@ -39,6 +39,7 @@ My name is Rafael, I am on my fourth semester graduating on Software Engineering
 
 ## Currently learning
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,nodejs,swift" />
+    <img src="https://skillicons.dev/icons?i=docker,swift,kotlin,dotnet" />
 </p>
+
 
